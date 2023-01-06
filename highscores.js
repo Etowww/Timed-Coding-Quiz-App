@@ -3,6 +3,9 @@
 var olEl = document.getElementById('highscores-list');
 var homescreenBtnEl = document.getElementById('homescreen-btn');
 
+homescreenBtnEl.addEventListener("click", function() {
+    location = "index.html";
+});
 
 function printHighScores () {
     var highscores = JSON.parse(window.localStorage.getItem("highscores"));
@@ -17,6 +20,4 @@ function printHighScores () {
 
 printHighScores();
 
-homescreenBtnEl.addEventListener("click", function() {
-    location = "index.html";
-});
+
