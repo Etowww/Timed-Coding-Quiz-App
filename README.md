@@ -10,7 +10,7 @@ N/A
 N/A
 
 ## Usage
-Link to the deployed application: 
+Link to the deployed application: https://etowww.github.io/Timed-Coding-Quiz-App/index.html
 
 To use this application simply press the start button on the homescreen whenever you are ready to begin the quiz. (Pictured Below).
 
