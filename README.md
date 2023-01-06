@@ -14,17 +14,17 @@ Link to the deployed application:
 
 To use this application simply press the start button on the homescreen whenever you are ready to begin the quiz. (Pictured Below).
 
-[!alt text](assets/images/homescreen.png)
+[!alt text](/assets/images/homescreen.png)
 
 
 The quiz will then begin, starting with a prompt and four possible answers underneath the prompt. The quiz will not allow you to move forward to the next question until the correct answer has been selected. Any incorrect choices will deduct 10 seconds from your time remaining and ultimately effect your score. Once the timer reaches 0 seconds or you have run out of questions to answer you will be directed to enter your name into an input field. You can submit your name and score to the highscores page by pressing the submit button.
 (Pictured Below).
 
-[!alt text](assets/images/endOfQuiz.png)
+[!alt text](/assets/images/endOfQuiz.png)
 
 Once your hiscore has been saved you will be directed to view the highscores page by pressing the view hiscores button. Once there you will see a list containing all of your local hiscores. (Pictured Below).
 
-[!alt text](assets/images/hiscoresPage.png)
+[!alt text](/assets/images/hiscoresPage.png)
 
 ## Credits
 N/A
